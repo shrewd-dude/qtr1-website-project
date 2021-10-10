@@ -1,0 +1,68 @@
+
+       h1 {
+        font-family: 'Heveltica', sans-serif;
+        text-align:center;
+        color: white;
+      }   
+      body {
+        background-color: rgb(29, 23, 52);
+      }
+
+      h3 {
+        font-family: 'Courier New', monospace;
+        text-align:left;
+        color: rgb(185, 173, 173);
+	font-size: 20px
+      }
+
+      p {
+        color:white;
+	text-align:center;
+	font-family: 'Heveltica', sans-serif;
+	font-size: 16px
+      }
+
+      input[type=text], select {
+        width: 100%;
+        padding: 12px 20px;
+        margin: 8px 0;
+        display: inline-block;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        box-sizing: border-box;
+        text-align:center;
+      }
+
+      input[type=submit] {
+        width: 100%;
+        background-color: rgb(204, 22, 53);
+        color: white;
+        padding: 14px 20px;
+        margin: 8px 0;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+        text-align:center
+      }
+
+      input[type=submit]:hover {
+        background-color: rgb(145, 13, 35);
+        text-align:center;
+      }
+
+      div {
+        border-radius: 5px;
+        background-color: rgb(242, 242, 242);
+        padding: 20px;
+      }
+	a{
+        color: white;
+        text-align: center;
+      }
+	li{
+	color: white;
+	font-family: 'Heveltica', sans-serif;
+	}
+	img{
+	float: left;
+	}

@@ -16,7 +16,7 @@ border: 5px solid rgb(145, 13, 35);
       See below to get started<br>
     </p>
     <br><br>
-    <form action="submission.html" method="post">
+    <form action="submission.md" method="post">
       <label for="class" style="color: white;font-size:25px;font-family: Helvetica, sans-serif;">Select Class:</label>
       <select name="class" id="classes">
         <option value="tech">Tech</option>
